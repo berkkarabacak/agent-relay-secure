@@ -1,7 +1,7 @@
 # AgentRelay
 
 Public preview: https://berkkarabacak.github.io/agent-relay/
-Source repository: https://github.com/berkkarabacak/agent-relay
+Source repository: https://github.com/berkkarabacak/agent-relay-secure
 
 A local control plane for long-running Claude Managed Agents. Each sticky agent gets:
 
